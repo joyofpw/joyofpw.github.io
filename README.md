@@ -26,6 +26,10 @@ Using the *SolidWire* language could help you clear your vision.
 Represent different relationships between *templates, fields and pages*
 in a standarized way. Communicate better and faster by following sane conventions.
 
+### 🏁 [How to Install ProcessWire](https://github.com/joyofpw/how-to-install-processwire)
+
+A simple guide for newcomers to the wonderful world of `ProcessWire`.
+
 ## Experiments
 
 ### 🔖 [Additional Image Fields](https://github.com/joyofpw/imagefield-additional-fields)
