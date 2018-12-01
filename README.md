@@ -4,8 +4,7 @@ We enjoy working and making fun projects with the amazing CMS/CMF [ProcessWire](
 This is a place where we keep our experiments and wild ideas.
 Maybe some of them could be useful to you and that would be awesome.
 
-[Github](https://github.com/joyofpw)
-
+[🏆 Go to Github](https://github.com/joyofpw)
 
 ## Ideas
 
