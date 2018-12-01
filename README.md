@@ -15,7 +15,7 @@ would be enough for simple and complex projects.
 
 ### 🈴 [Better Translatable Strings](https://github.com/joyofpw/better-translatable-strings)
 
-Discover how using the `wirePopulateStringTags` can improve tremendously the translation strings.
+Discover how using the `wirePopulateStringTags()` function can improve tremendously the translation strings.
 And helps with the translation process.
 
 ### 🚎 [SolidWire Markup Language](https://github.com/joyofpw/solidwire)
