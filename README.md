@@ -37,5 +37,9 @@ A simple guide for newcomers to the wonderful world of `ProcessWire`.
 A module that helps including additional fields to image. Useful when you need the url, 
 path or markdown code right away.
 
+### 📦 [Docker files for ProcessWire](https://github.com/joyofpw/docker)
+
+Files that helps making *ProcessWire* projects using *Docker* containers.
+
 ## Maintained By CLSource
 I'm at the [ProcessWire forums](https://processwire.com/talk/profile/2127-clsource/).
