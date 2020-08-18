@@ -19,7 +19,7 @@ would be enough for simple and complex projects.
 Discover how using the `wirePopulateStringTags()` function can improve tremendously the translation strings.
 And helps with the translation process.
 
-### 🚎 [SolidWire Markup Language](https://github.com/joyofpw/solidwire)
+### 🚎 [SolidWire Pseudo Language](https://github.com/joyofpw/solidwire)
 
 When you need to prototype different ideas.
 Using the *SolidWire* language could help you clear your vision. 
