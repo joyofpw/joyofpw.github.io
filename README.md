@@ -41,5 +41,13 @@ path or markdown code right away.
 
 Files that helps making *ProcessWire* projects using *Docker* containers.
 
+## Examples
+
+### 🐦 [🇨🇱 Chilean Birds](https://github.com/joyofpw/chileanbirds-api)
+
+A small _API_ to showcase a _SolidWire_ usage and small Rest API with _ProcessWire_.
+Using _React.js_ as frontend.
+
+
 ## Maintained By CLSource
 I'm at the [ProcessWire forums](https://processwire.com/talk/profile/2127-clsource/).
