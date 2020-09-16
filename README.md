@@ -48,6 +48,9 @@ Files that helps making *ProcessWire* projects using *Docker* containers.
 A small _API_ to showcase a _SolidWire_ usage and small Rest API with _ProcessWire_.
 Using _React.js_ as frontend.
 
+### 🤖 [Voxgram](https://github.com/joyofpw/voxgram)
+
+A _Python Telegram bot_ that saves audios in a _Processwire_ backend.
 
 ## Maintained By CLSource
 I'm at the [ProcessWire forums](https://processwire.com/talk/profile/2127-clsource/).
