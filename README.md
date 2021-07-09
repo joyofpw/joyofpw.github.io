@@ -41,6 +41,10 @@ path or markdown code right away.
 
 Files that helps making *ProcessWire* projects using *Docker* containers.
 
+### ⏩ [Inertia Adapter for ProcessWire](https://github.com/joyofpw/inertia)
+
+Now you can use the wonderful https://inertiajs.com/ with good ol' ProcessWire templates.
+
 ## Examples
 
 ### 🐦 [🇨🇱 Chilean Birds](https://github.com/joyofpw/chileanbirds-api)
@@ -50,7 +54,11 @@ Using _React.js_ as frontend.
 
 ### 🤖 [Voxgram](https://github.com/joyofpw/voxgram)
 
-A _Python Telegram bot_ that saves audios in a _Processwire_ backend.
+A _Python Telegram bot_ that saves audios in a _ProcessWire_ backend.
+
+### ⏩ [Svelte + ProcessWire + Laravel Mix + Inertia](https://github.com/joyofpw/inertia-svelte-mix-pw)
+
+An example that implements _ProcessWire_, _Laravel Mix_, _Inertia_ and _Svelte_.
 
 ## Maintained By CLSource
 I'm at the [ProcessWire forums](https://processwire.com/talk/profile/2127-clsource/).
