@@ -32,6 +32,10 @@ A simple guide for newcomers to the wonderful world of `ProcessWire`.
 
 ## Experiments
 
+### 🌚 [ProcessWire in Yaws](https://github.com/joyofpw/pwyaws)
+
+All the power of an _Erlang_ server to run _ProcessWire_.
+
 ### 🔖 [Additional Image Fields](https://github.com/joyofpw/imagefield-additional-fields)
 
 A module that helps including additional fields to image. Useful when you need the url, 
